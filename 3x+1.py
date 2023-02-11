@@ -1,4 +1,4 @@
-x = int(input('- '))
+x = int(input('Adj meg egy számot: '))
 while x > 1:
     if x % 2 == 0:
         x = x / 2
